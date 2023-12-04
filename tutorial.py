@@ -12,4 +12,4 @@ def flip_coin():
 
 # Call the flip_coin function and print the result
 outcome = flip_coin()
-print("The coin landed on:", outcome)
+print(outcome)
