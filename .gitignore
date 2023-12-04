@@ -1,0 +1,3 @@
+# Ignore cache folders
+.__pycache__/
+.pytest_cache/
