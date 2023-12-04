@@ -1,6 +1,6 @@
 import random
 
-def flip_coin():
+def coin_flip():
     # Generate a random number (0 or 1) to represent heads or tails
     result = random.randint(0, 1)
     
@@ -11,5 +11,5 @@ def flip_coin():
         return "Tails"
 
 # Call the flip_coin function and print the result
-outcome = flip_coin()
+outcome = coin_flip()
 print(outcome)
